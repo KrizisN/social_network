@@ -4,7 +4,7 @@
 
 ### 1) Clone repository
 ```commandline
-git clone ...
+git clone https://github.com/KrizisN/social_network.git
 ```
 
 ### 2) Create virtual environment
